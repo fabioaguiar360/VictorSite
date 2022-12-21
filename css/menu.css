@@ -1,0 +1,22 @@
+
+.card{
+    margin: 15px;
+    float: left;
+
+}
+.content{
+    background-color: black;
+    align-self: center;
+    height: 100px;
+    width: 100px;
+}
+.secondcontent{
+    clear:left;
+    margin-top: 10px;
+}
+.img-text{
+    width: 30%px;
+    height: 30%;
+    margin: 15px;
+    float: left;
+}
